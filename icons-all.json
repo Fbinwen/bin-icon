@@ -1,7 +1,17 @@
 ﻿{"name": "Fbinwen图标库",
   "description": "收集一些自己常用的图标，版权属于原作者和商标持有人。",
   "icons": [
+   
     {"name": "apple",
      "url": 
-"https://raw.githubusercontent.com/Fbinwen/bin-icon/main/apps/Apple.png"}
+"https://raw.githubusercontent.com/Fbinwen/bin-icon/main/apps/Apple.png"},
+    
+    {"name": "applemusic",
+     "url": 
+"https://raw.githubusercontent.com/Fbinwen/bin-icon/main/apps/AppleMusic.png"},
+     
+    {"name": "AliYunDrive",
+     "url": 
+ "https://raw.githubusercontent.com/Fbinwen/bin-icon/main/apps/AliYunDrive.png"},
+    
 ]}
