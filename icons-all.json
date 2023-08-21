@@ -14,14 +14,6 @@
      "url": 
  "https://raw.githubusercontent.com/Fbinwen/bin-icon/main/apps/AliYunDrive.png"},
 
-     {"name": "oil",
-     "url": 
- "https://raw.githubusercontent.com/Fbinwen/bin-icon/main/apps/oil.png"},
-
-    {"name": "sf",
-     "url": 
- "https://raw.githubusercontent.com/Fbinwen/bin-icon/main/apps/sf.png"},
-
      {"name": "zhidemai",
      "url": 
  "https://raw.githubusercontent.com/Fbinwen/bin-icon/main/apps/zhidemai.png"},
@@ -32,6 +24,14 @@
 
     {"name": "Boom",
      "url": 
- "https://raw.githubusercontent.com/Fbinwen/bin-icon/main/apps/Boom.png"},
+ "https://raw.githubusercontent.com/Fbinwen/bin-icon/main/tool/Boom.png"},
+
+     {"name": "oil",
+     "url": 
+ "https://raw.githubusercontent.com/Fbinwen/bin-icon/main/tool/oil.png"},
+
+     {"name": "sf",
+     "url": 
+ "https://raw.githubusercontent.com/Fbinwen/bin-icon/main/apps/sf.png"},
     
 ]}
